@@ -1,5 +1,7 @@
 Simple Calculator
-Description
+
+Description:
+
 A basic calculator program that performs arithmetic operations (+, -, *, /) on two numbers.
 
 Usage
