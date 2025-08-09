@@ -10,6 +10,9 @@ A basic calculator that handles +, -, *, / operations.
 
 ## **Example**  
 Enter first number: 5
+
 Enter operation: *
+
 Enter second number: 3
+
 Result: 15.0
